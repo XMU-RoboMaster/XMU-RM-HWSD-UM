@@ -51,6 +51,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://xmu-robomaster.github.io/XMU-RM-HWSD-UM/Design-Files/</loc>
+         <lastmod>2022-07-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://xmu-robomaster.github.io/XMU-RM-HWSD-UM/Detector/</loc>
          <lastmod>2022-07-18</lastmod>
          <changefreq>daily</changefreq>
